@@ -29,8 +29,6 @@ This workspace demonstrates core graph algorithms in C++ using a real-world styl
   8. Kruskal
 - Uses custom Queue and Stack classes for BFS/DFS.
 
-Note: The CSV path is currently hardcoded to a local absolute path. Update the path to point to the local pakistan_train_routes.csv in this workspace before running.
-
 ### test1.cpp
 - Builds a fixed 5-node undirected weighted graph.
 - Prints adjacency list and matrix.
